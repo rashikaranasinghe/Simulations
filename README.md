@@ -20,3 +20,5 @@ This R Shiny app generates an interactive, simulated STRUCTURE-style barplot for
 It allows users to explore how ancestry proportions vary across individuals given different average ancestry values and noise levels.
 
 View the app here:  https://rrshinyapp.shinyapps.io/STRUCTURE_Plot_K3/
+
+The Julia script above ("Simulatin of tri-hybridization") simulates hybridization dynamics among three species and tracks how their genomic ancestry proportions change across generations. It generates parental genotypes, models random mating to produce hybrid offspring, and calculates ancestry contributions from each species.
